@@ -40,7 +40,9 @@ a{
     gap: 10px;
     justify-content: center;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
+
 p{
     text-align: center;
     margin: 10px 0;
